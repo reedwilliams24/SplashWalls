@@ -1,6 +1,6 @@
 # SplashWalls
 
-iPhone Backsplash generator made by React Native that utilizes the Unsplash API
+iPhone wallpaper generator made with React Native and the Unsplash API
 
 <img src="https://raw.githubusercontent.com/reedwilliams24/SplashWalls/master/docs/screenshot2.png" width="207" height="368">
 <img src="https://raw.githubusercontent.com/reedwilliams24/SplashWalls/master/docs/screenshot1.PNG" width="207" height="368">
